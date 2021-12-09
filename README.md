@@ -1,2 +1,2 @@
 # Chat-Application
- 
+This program support group chat and private chat. Chat logs affiliated with specific client are displayed on all clients' screen. It is in Java GUI supporting for multiple clients to connect to a server. Each client need to enter their unique account to login. They have their own friends list and they could click their friend name in list to chat with their friends privately. Besides,The server could send system messages to each client, and also can force some users to go offline. The client's online and offline can be refreshed in real time on top of other clients' interface.
